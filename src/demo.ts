@@ -1,3 +1,4 @@
+
 class Course {
     public course_id: string;
     public course_name: string;
